@@ -11,7 +11,7 @@
 
 ## 功能界面介绍
 **总体概览**   
-![Image text]（https://github.com/jimmy233/Weather/blob/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-02%20%E4%B8%8B%E5%8D%889.07.35.png）  
+![Image text](https://github.com/jimmy233/Weather/blob/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-02%20%E4%B8%8B%E5%8D%889.07.35.png)  
 
 **1.CityList**
 自行选择城市  
