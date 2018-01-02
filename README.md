@@ -12,10 +12,10 @@
 ## 功能界面介绍
 **1.CityList**
 自行选择城市
-<<<<<<< HEAD
-/Users/apple/Desktop/屏幕快照 2018-01-02 下午8.49.08.png
+
 **2.定位返回天气信息**
 天气信息包括（温度，风速，湿度，云量）以及对实时天气的Description,点击右上角刷新图标可刷新
-左上角为进入CityList界面
-/Users/apple/Desktop/屏幕快照 2018-01-02 下午8.52.59.png
+左上角为进入citylist界面
+
+
 
