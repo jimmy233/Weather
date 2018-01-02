@@ -33,6 +33,10 @@
 ![Image text](https://github.com/jimmy233/Weather/blob/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-02%20%E4%B8%8B%E5%8D%889.09.03.png)  
 
 **5.新闻WebView页面**  
+![Image text](https://github.com/jimmy233/Weather/blob/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-02%20%E4%B8%8B%E5%8D%889.09.49.png)  
+
+## 感想
+*实现一款App的整个过程非常有趣，不同于以前所学习的其它课程的Project枯燥无味。很开心自己这学期选了这门课，能够了解到App的开发过程，自己也完成了一个Project。（当初选择计算机系的初衷就是希望能够自己做一个App）遗憾的是没有能够花更多的时间在这个Project上，功能有些简单，做的比较粗糙。在空闲时，自己也会不断更新代码，争取最后能够做出一个更加精致，方便的Weather App。能够去学习开发更多的App.
 
 
 
