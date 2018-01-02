@@ -24,7 +24,15 @@
 
 ![Image text](https://github.com/jimmy233/Weather/blob/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-02%20%E4%B8%8B%E5%8D%888.52.59.png)  
 
-**3.点击地点图标显示自身在地图上的位置**
+**3.点击地点图标显示自身在地图上的位置**  
+![Image text](https://github.com/jimmy233/Weather/blob/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-02%20%E4%B8%8B%E5%8D%889.09.20.png)  
+
+
+**4.查看热点新闻，tableview可拖动，点击一个cell即可跳转其webview界面了解更详细的新闻信息**  
+（点击新闻框上按钮可刷新）  
+
+
+
 
 
 
