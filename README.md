@@ -20,7 +20,13 @@
 
 **2.定位返回天气信息**
 天气信息包括（温度，风速，湿度，云量）以及对实时天气的Description,点击右上角刷新图标可刷新
-左上角为进入citylist界面
+左上角为进入citylist界面  
+
+![Image text](https://github.com/jimmy233/Weather/blob/master/image/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202018-01-02%20%E4%B8%8B%E5%8D%888.52.59.png)  
+
+**3.点击地点图标显示自身在地图上的位置**
+
+
 
 
 
